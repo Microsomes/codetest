@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BookingManagerTest::testGetStatusReturnsNullWhenBookingNotFound":4},"times":{"BookingManagerTest::testGetStatusReturnsNullWhenBookingNotFound":0.026,"BookingManagerTest::testGetStatusReturnsValidStatusWhenBookingFound":0.101}}
